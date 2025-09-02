@@ -16,11 +16,6 @@ It’s simple to manage, addictively fun to use, and packed with features you'll
 
 ---
 
-### 🎮 [Rari](https://github.com/rayovanii/rari)
-A collaborative project / helping out another developer. 
-
----
-
 ## 💬 A Bit More About Me
 
 - I’m from **Scotland**, and yes — I do like Irn-Bru.
